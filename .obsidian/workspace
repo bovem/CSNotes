@@ -7,11 +7,8 @@
         "id": "9c1e62bf41b52f0b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "INDEX.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,15 +65,22 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "8588ceb7e4fee8cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ]
@@ -88,6 +92,15 @@
   },
   "active": "9c1e62bf41b52f0b",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Discrete Mathematics.md",
+    "Proposition Equivalence.md",
+    "Negation Law.md",
+    "Absorption Law.md",
+    "Distributive Law.md",
+    "Associative Law.md",
+    "Commutative Law.md",
+    "Double Negation Law.md",
+    "Idempotent Law.md",
+    "Domination Law.md"
   ]
 }
